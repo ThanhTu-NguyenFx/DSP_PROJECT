@@ -1,0 +1,12 @@
+# MATLAB
+*.wav
+*.asv
+*.autosave
+*.m~
+slprj/
+sccprj/
+codegen/
+*.mex*
+
+# Tạm
+*.log
